@@ -17,3 +17,10 @@ I found picking up new frameworks, APIs, and creating a fully functional web app
 - [ ] IOS boilerplate 
 - [ ] Android boilerplate
 - [ ] Facial Recognition boilerplate
+- [ ] Algolia
+- [ ] Snapchat
+- [ ] IoT stuff
+- [ ] Facebook Graph API
+- [ ] Cisco
+- [ ] Clarafai 
+- [ ] Google Cloud NLP
